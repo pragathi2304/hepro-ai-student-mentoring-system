@@ -1,0 +1,11 @@
+mentor_id,mentor_name,expertise_area,specialization,max_students,current_load,availability
+M1,Dr. Sharma,Academic,AIML,10,6,Available
+M2,Prof. Rao,Academic,DSA,8,7,Available
+M3,Ms. Anjali,Wellness,Stress Management,12,5,Available
+M4,Mr. Kiran,Career,Resume & Placements,15,14,Available
+M5,Dr. Mehta,Wellness,Mental Health,10,10,Not Available
+M6,Mr. Arjun,Career,Interview Preparation,12,7,Available
+M7,Ms. Neha,Academic,Mathematics,9,4,Available
+M8,Mr. Vikram,Wellness,Emotional Support,10,3,Available
+M9,Ms. Priya,Career,LinkedIn & Networking,10,6,Available
+M10,Dr. Iyer,Academic,Data Structures & Algorithms,12,11,Available
